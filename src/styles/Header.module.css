@@ -1,0 +1,21 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 15px;
+}
+
+.imgContainer {
+  width: 20%;
+}
+
+.imgContainer img {
+  width: 100%;
+}
+
+.linkContainer a {
+  margin-right: 20px;
+  font-size: 18px;
+  text-transform: uppercase;
+  color: black;
+}
