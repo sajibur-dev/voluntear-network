@@ -1,0 +1,19 @@
+.pageContaoner {
+  padding: 10px;
+}
+
+.header {
+  text-align: center;
+  margin: 10px 0;
+  text-transform: uppercase;
+}
+
+.searchBox {
+  text-align: center;
+}
+
+.voluntearContainer {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+}
